@@ -1,0 +1,83 @@
+10
+
+dir
+2739
+http://dev.myrange.ru/svn/branches/dev-conf/jmclient/src/ru/myrange
+http://dev.myrange.ru/svn
+
+
+
+2010-03-20T12:38:05.539966Z
+2738
+egorov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cd69ef62-708b-4aaa-a3e7-6bed42ce4a3a
+
+MyRangeMIDlet.java
+file
+3350
+
+
+
+2010-06-05T21:06:18.000000Z
+df369a107caf536b22444d4fab2aacfc
+2010-06-05T21:31:49.549399Z
+3350
+egorov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36456
+
+screens
+dir
+
+soap
+dir
+
+canvases
+dir
+
+bluetooth
+dir
+
+datastore
+dir
+
+stuff
+dir
+
+util
+dir
+

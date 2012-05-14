@@ -1,0 +1,8 @@
+MIDlet-1: myRangeDev,/favicon_48.png,ru.myrange.MyRangeMIDlet
+MIDlet-Vendor: myRange Group
+MIDlet-Info-URL: http://m.myrange.ru/
+MIDlet-Name: myRangeDev
+MIDlet-Delete-Confirm: Are you sure you want to delete the myRange java client?
+MIDlet-Version: 0.3.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

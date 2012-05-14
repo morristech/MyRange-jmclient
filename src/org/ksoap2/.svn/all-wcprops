@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2687/branches/dev-conf/jmclient/src/org/ksoap2
+END
+SoapEnvelope.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/SoapEnvelope.java
+END
+SoapFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/SoapFault.java
+END

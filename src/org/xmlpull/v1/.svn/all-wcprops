@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/xmlpull/v1
+END
+XmlPullParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/xmlpull/v1/XmlPullParserFactory.java
+END
+XmlPullParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/xmlpull/v1/XmlPullParserException.java
+END
+XmlPullParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/xmlpull/v1/XmlPullParser.java
+END
+XmlSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/xmlpull/v1/XmlSerializer.java
+END

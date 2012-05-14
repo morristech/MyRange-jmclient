@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util
+END
+Pincode.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util/Pincode.java
+END
+Password.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util/Password.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util/PhoneNumber.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util/MD5.java
+END
+EmailAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2740/branches/dev-conf/jmclient/src/ru/myrange/util/EmailAddress.java
+END

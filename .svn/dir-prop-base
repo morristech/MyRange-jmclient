@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 230
+*.iws
+Jmclient structure.mmap
+MyRange.iml
+MyRange.ipr
+MyRange.iws
+MyRange.jad
+MyRange.jar
+Settings.mmap
+build
+build.xml
+classes
+nbproject
+out
+tmpclasses
+Данные в телефоне.mmap
+Запуск приложения.mmap
+
+K 13
+svn:mergeinfo
+V 73
+/branches/dev-main/jmclient:2177-2179
+/trunk/jmclient:1258-1317,1415-1421
+END

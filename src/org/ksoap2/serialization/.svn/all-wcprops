@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization
+END
+DM.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/DM.java
+END
+PropertyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/PropertyInfo.java
+END
+MarshalHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/MarshalHashtable.java
+END
+KvmSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/KvmSerializable.java
+END
+MarshalDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/MarshalDate.java
+END
+Marshal.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/Marshal.java
+END
+SoapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/SoapObject.java
+END
+SoapPrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/SoapPrimitive.java
+END
+MarshalBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/MarshalBase64.java
+END
+FwdRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/FwdRef.java
+END
+SoapSerializationEnvelope.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2177/branches/dev-conf/jmclient/src/org/ksoap2/serialization/SoapSerializationEnvelope.java
+END

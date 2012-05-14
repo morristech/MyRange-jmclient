@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2687/branches/dev-conf/jmclient/src/ru/myrange/screens
+END
+UserProfileScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/UserProfileScreen.java
+END
+SettingsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/SettingsScreen.java
+END
+CompanyListScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/CompanyListScreen.java
+END
+EventsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/EventsScreen.java
+END
+MyProfileScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/MyProfileScreen.java
+END
+LoginScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/LoginScreen.java
+END
+NewSearchUsersRequestScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2550/branches/dev-conf/jmclient/src/ru/myrange/screens/NewSearchUsersRequestScreen.java
+END
+BtMsgScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2633/branches/dev-conf/jmclient/src/ru/myrange/screens/BtMsgScreen.java
+END
+FavouriteUsersScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2633/branches/dev-conf/jmclient/src/ru/myrange/screens/FavouriteUsersScreen.java
+END
+SearchUsersScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/SearchUsersScreen.java
+END
+CompanyProfileScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/CompanyProfileScreen.java
+END
+EventInfoScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/EventInfoScreen.java
+END
+CaptureScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/CaptureScreen.java
+END
+BusinessMeetScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/BusinessMeetScreen.java
+END
+MessagesScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3180/branches/dev-conf/jmclient/src/ru/myrange/screens/MessagesScreen.java
+END
+SmsMsgScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2633/branches/dev-conf/jmclient/src/ru/myrange/screens/SmsMsgScreen.java
+END
+MainMenuScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/MainMenuScreen.java
+END
+AboutScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3350/branches/dev-conf/jmclient/src/ru/myrange/screens/AboutScreen.java
+END
+BillboardProfileScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2633/branches/dev-conf/jmclient/src/ru/myrange/screens/BillboardProfileScreen.java
+END
+MeetUsersScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/MeetUsersScreen.java
+END
+PasswordValidationScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2646/branches/dev-conf/jmclient/src/ru/myrange/screens/PasswordValidationScreen.java
+END
+TrafficScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3180/branches/dev-conf/jmclient/src/ru/myrange/screens/TrafficScreen.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/Screen.java
+END
+PincodeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2687/branches/dev-conf/jmclient/src/ru/myrange/screens/PincodeScreen.java
+END
+PasswordRecoveryScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2646/branches/dev-conf/jmclient/src/ru/myrange/screens/PasswordRecoveryScreen.java
+END
+DevicesScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/DevicesScreen.java
+END
+RegisterScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3018/branches/dev-conf/jmclient/src/ru/myrange/screens/RegisterScreen.java
+END
+UserMsgScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2641/branches/dev-conf/jmclient/src/ru/myrange/screens/UserMsgScreen.java
+END
+OldCaptureForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2626/branches/dev-conf/jmclient/src/ru/myrange/screens/OldCaptureForm.java
+END
+FirstScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3180/branches/dev-conf/jmclient/src/ru/myrange/screens/FirstScreen.java
+END
+UsersChoiseScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/UsersChoiseScreen.java
+END
+StartScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3061/branches/dev-conf/jmclient/src/ru/myrange/screens/StartScreen.java
+END
